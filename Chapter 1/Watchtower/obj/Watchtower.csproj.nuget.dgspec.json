@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/Watchtower/Watchtower.csproj": {}
+    "/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Watchtower/Watchtower.csproj": {}
   },
   "projects": {
-    "/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/Watchtower/Watchtower.csproj": {
+    "/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Watchtower/Watchtower.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/Watchtower/Watchtower.csproj",
+        "projectUniqueName": "/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Watchtower/Watchtower.csproj",
         "projectName": "Watchtower",
-        "projectPath": "/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/Watchtower/Watchtower.csproj",
+        "projectPath": "/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Watchtower/Watchtower.csproj",
         "packagesPath": "/home/lucas/.nuget/packages/",
-        "outputPath": "/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/Watchtower/obj/",
+        "outputPath": "/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Watchtower/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/lucas/.nuget/NuGet/NuGet.Config"

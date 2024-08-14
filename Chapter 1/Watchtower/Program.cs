@@ -27,3 +27,19 @@ else if (xValInt == 0 && yValInt == 0)
 {
     Console.WriteLine("The enemy is here!");
 }
+else if (xValInt > 0 && yValInt == 0)
+{
+    Console.WriteLine("The enemy approaches form the East");
+}
+else if (xValInt < 0 && yValInt < 0)
+{
+    Console.WriteLine("The enemy approaches form the Southwest");
+}
+else if (xValInt == 0 && yValInt < 0)
+{
+    Console.WriteLine("The enemy approaches from the South");
+}
+else if (xValInt > 0 && yValInt < 0)
+{
+    Console.WriteLine("The enemy approaches form the Southeast");
+}

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Watchtower")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c50689ca58373df134a666a3830e6fca51df645")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94b508f8feaaf628a32a77a470ff5aca6538a895")]
 [assembly: System.Reflection.AssemblyProductAttribute("Watchtower")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Watchtower")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
