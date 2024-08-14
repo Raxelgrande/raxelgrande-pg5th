@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hY5JxiMXS8yvi4s9adiK8MRtMTEtnvHk1Zm3byg3hPa/n0W8m+mXAiMS+tIggUhj2HtwHjZgczGcK30Wy4uRkg==",
+  "success": true,
+  "projectFilePath": "/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Variable Shop/The Variable Shop.csproj",
+  "expectedPackageFiles": [
+    "/home/lucas/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

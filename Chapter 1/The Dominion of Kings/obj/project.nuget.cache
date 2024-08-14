@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m0TN2t6gSft2NDkZXu+w1DSUvwEj5R2acJoJUbJlHCRogMIG8hqXNy1nbl5AAvRT3gPmv5aWPUxbBYQnd/ALgA==",
+  "success": true,
+  "projectFilePath": "/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Dominion of Kings/The Dominion of Kings.csproj",
+  "expectedPackageFiles": [
+    "/home/lucas/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

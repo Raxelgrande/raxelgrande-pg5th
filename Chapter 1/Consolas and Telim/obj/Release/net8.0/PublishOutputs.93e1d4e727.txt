@@ -1,0 +1,5 @@
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/Consolas and Telim/bin/Release/net8.0/publish/Consolas and Telim
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/Consolas and Telim/bin/Release/net8.0/publish/Consolas and Telim.dll
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/Consolas and Telim/bin/Release/net8.0/publish/Consolas and Telim.deps.json
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/Consolas and Telim/bin/Release/net8.0/publish/Consolas and Telim.runtimeconfig.json
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/Consolas and Telim/bin/Release/net8.0/publish/Consolas and Telim.pdb

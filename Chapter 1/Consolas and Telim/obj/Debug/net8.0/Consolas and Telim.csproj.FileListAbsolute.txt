@@ -1,0 +1,14 @@
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/Consolas and Telim/bin/Debug/net8.0/Consolas and Telim
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/Consolas and Telim/bin/Debug/net8.0/Consolas and Telim.deps.json
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/Consolas and Telim/bin/Debug/net8.0/Consolas and Telim.runtimeconfig.json
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/Consolas and Telim/bin/Debug/net8.0/Consolas and Telim.dll
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/Consolas and Telim/bin/Debug/net8.0/Consolas and Telim.pdb
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/Consolas and Telim/obj/Debug/net8.0/Consolas and Telim.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/Consolas and Telim/obj/Debug/net8.0/Consolas and Telim.AssemblyInfoInputs.cache
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/Consolas and Telim/obj/Debug/net8.0/Consolas and Telim.AssemblyInfo.cs
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/Consolas and Telim/obj/Debug/net8.0/Consolas and Telim.csproj.CoreCompileInputs.cache
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/Consolas and Telim/obj/Debug/net8.0/Consolas and Telim.dll
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/Consolas and Telim/obj/Debug/net8.0/refint/Consolas and Telim.dll
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/Consolas and Telim/obj/Debug/net8.0/Consolas and Telim.pdb
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/Consolas and Telim/obj/Debug/net8.0/Consolas and Telim.genruntimeconfig.cache
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/Consolas and Telim/obj/Debug/net8.0/ref/Consolas and Telim.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gh5e65nP0GKaGKymtHJmhxoRsTZZ7PH5e8DZ7X2wVJMHA3opG7AtLHjSEPDmqCp9iFTpaqTulfd5uVHBNHlBug==",
+  "success": true,
+  "projectFilePath": "/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/Repairing the Clocktower/Repairing the Clocktower.csproj",
+  "expectedPackageFiles": [
+    "/home/lucas/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

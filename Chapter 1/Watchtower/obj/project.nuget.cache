@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2dCp3nbI8cwWiIxXpzKSoCSsiFpNQx8wcwOslcCqOXRmkry1gfikLYwZ8faBcOnQjpGTOAShwJAbBa/20yMlxw==",
+  "success": true,
+  "projectFilePath": "/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/Watchtower/Watchtower.csproj",
+  "expectedPackageFiles": [
+    "/home/lucas/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

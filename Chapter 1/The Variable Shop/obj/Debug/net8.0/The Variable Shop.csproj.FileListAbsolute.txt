@@ -1,0 +1,14 @@
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Variable Shop/bin/Debug/net8.0/The Variable Shop
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Variable Shop/bin/Debug/net8.0/The Variable Shop.deps.json
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Variable Shop/bin/Debug/net8.0/The Variable Shop.runtimeconfig.json
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Variable Shop/bin/Debug/net8.0/The Variable Shop.dll
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Variable Shop/bin/Debug/net8.0/The Variable Shop.pdb
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Variable Shop/obj/Debug/net8.0/The Variable Shop.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Variable Shop/obj/Debug/net8.0/The Variable Shop.AssemblyInfoInputs.cache
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Variable Shop/obj/Debug/net8.0/The Variable Shop.AssemblyInfo.cs
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Variable Shop/obj/Debug/net8.0/The Variable Shop.csproj.CoreCompileInputs.cache
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Variable Shop/obj/Debug/net8.0/The Variable Shop.dll
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Variable Shop/obj/Debug/net8.0/refint/The Variable Shop.dll
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Variable Shop/obj/Debug/net8.0/The Variable Shop.pdb
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Variable Shop/obj/Debug/net8.0/The Variable Shop.genruntimeconfig.cache
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Variable Shop/obj/Debug/net8.0/ref/The Variable Shop.dll

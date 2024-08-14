@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LBDYC4QsXBFqdi3yqxutbQzTt9exIjzh+iGWcmX8SLFpfEv71p1muPgc0CbFQRWtpYLOzRmvlUcZKr64/tdw3A==",
+  "success": true,
+  "projectFilePath": "/home/lucas/Programas/Codium/Csharp/Luk PG5th/Hello World/Hello World.csproj",
+  "expectedPackageFiles": [
+    "/home/lucas/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Five Greetings/1.0.0": {
+        "runtime": {
+          "Five Greetings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Five Greetings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

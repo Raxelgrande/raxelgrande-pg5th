@@ -1,0 +1,14 @@
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Triangle Farmer/bin/Debug/net8.0/The Triangle Farmer
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Triangle Farmer/bin/Debug/net8.0/The Triangle Farmer.deps.json
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Triangle Farmer/bin/Debug/net8.0/The Triangle Farmer.runtimeconfig.json
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Triangle Farmer/bin/Debug/net8.0/The Triangle Farmer.dll
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Triangle Farmer/bin/Debug/net8.0/The Triangle Farmer.pdb
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Triangle Farmer/obj/Debug/net8.0/The Triangle Farmer.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Triangle Farmer/obj/Debug/net8.0/The Triangle Farmer.AssemblyInfoInputs.cache
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Triangle Farmer/obj/Debug/net8.0/The Triangle Farmer.AssemblyInfo.cs
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Triangle Farmer/obj/Debug/net8.0/The Triangle Farmer.csproj.CoreCompileInputs.cache
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Triangle Farmer/obj/Debug/net8.0/The Triangle Farmer.dll
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Triangle Farmer/obj/Debug/net8.0/refint/The Triangle Farmer.dll
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Triangle Farmer/obj/Debug/net8.0/The Triangle Farmer.pdb
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Triangle Farmer/obj/Debug/net8.0/The Triangle Farmer.genruntimeconfig.cache
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Triangle Farmer/obj/Debug/net8.0/ref/The Triangle Farmer.dll

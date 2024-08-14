@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qNFF3ffW/BXrtNAiYzTa9oqYipJhwamZLyx800zLsPmwg7U7OLc0Iw5YaelSR3WjSV4beGoBNgT/Zj1RkoexVw==",
+  "success": true,
+  "projectFilePath": "/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Triangle Farmer/The Triangle Farmer.csproj",
+  "expectedPackageFiles": [
+    "/home/lucas/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

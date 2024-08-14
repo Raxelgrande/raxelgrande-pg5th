@@ -1,0 +1,14 @@
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Dominion of Kings/obj/Debug/net8.0/The Dominion of Kings.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Dominion of Kings/obj/Debug/net8.0/The Dominion of Kings.AssemblyInfoInputs.cache
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Dominion of Kings/obj/Debug/net8.0/The Dominion of Kings.AssemblyInfo.cs
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Dominion of Kings/obj/Debug/net8.0/The Dominion of Kings.csproj.CoreCompileInputs.cache
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Dominion of Kings/bin/Debug/net8.0/The Dominion of Kings
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Dominion of Kings/bin/Debug/net8.0/The Dominion of Kings.deps.json
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Dominion of Kings/bin/Debug/net8.0/The Dominion of Kings.runtimeconfig.json
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Dominion of Kings/bin/Debug/net8.0/The Dominion of Kings.dll
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Dominion of Kings/bin/Debug/net8.0/The Dominion of Kings.pdb
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Dominion of Kings/obj/Debug/net8.0/The Dominion of Kings.dll
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Dominion of Kings/obj/Debug/net8.0/refint/The Dominion of Kings.dll
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Dominion of Kings/obj/Debug/net8.0/The Dominion of Kings.pdb
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Dominion of Kings/obj/Debug/net8.0/The Dominion of Kings.genruntimeconfig.cache
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/Chapter 1/The Dominion of Kings/obj/Debug/net8.0/ref/The Dominion of Kings.dll
