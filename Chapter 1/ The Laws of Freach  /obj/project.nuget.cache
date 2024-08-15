@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HCTlgi6yG4Xt2Ba667BLXf7Y0/a4zWV19JU+t3IGcJzgcrpG09qaaoPqDR4BLfIYLrqhAc7uSg20RP1byZnQUg==",
+  "success": true,
+  "projectFilePath": "/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/ The Laws of Freach  /The Laws of Freach.csproj",
+  "expectedPackageFiles": [
+    "/home/lucas/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
