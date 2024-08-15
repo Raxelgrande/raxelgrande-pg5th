@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("The Thing Namer 3000")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e68564f43ffe82cc02d82c4918914bbb4591b93")]
 [assembly: System.Reflection.AssemblyProductAttribute("The Thing Namer 3000")]
 [assembly: System.Reflection.AssemblyTitleAttribute("The Thing Namer 3000")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

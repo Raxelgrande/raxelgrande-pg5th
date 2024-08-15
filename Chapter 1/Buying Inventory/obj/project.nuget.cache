@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AYxvdix7cN1b6oop1RxogBC98Hz1M6Fh5tMPRKTtNtxQe5JV9OUSrcMT8Ncw02OyV8+Nci4JQsSB3BC23K71Hw==",
+  "success": true,
+  "projectFilePath": "/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Buying Inventory/Buying Inventory.csproj",
+  "expectedPackageFiles": [
+    "/home/lucas/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

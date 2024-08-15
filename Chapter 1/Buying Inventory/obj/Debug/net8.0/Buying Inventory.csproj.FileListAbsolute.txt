@@ -1,0 +1,15 @@
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Buying Inventory/bin/Debug/net8.0/Buying Inventory
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Buying Inventory/bin/Debug/net8.0/Buying Inventory.deps.json
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Buying Inventory/bin/Debug/net8.0/Buying Inventory.runtimeconfig.json
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Buying Inventory/bin/Debug/net8.0/Buying Inventory.dll
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Buying Inventory/bin/Debug/net8.0/Buying Inventory.pdb
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Buying Inventory/obj/Debug/net8.0/Buying Inventory.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Buying Inventory/obj/Debug/net8.0/Buying Inventory.AssemblyInfoInputs.cache
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Buying Inventory/obj/Debug/net8.0/Buying Inventory.AssemblyInfo.cs
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Buying Inventory/obj/Debug/net8.0/Buying Inventory.csproj.CoreCompileInputs.cache
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Buying Inventory/obj/Debug/net8.0/Buying Inventory.sourcelink.json
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Buying Inventory/obj/Debug/net8.0/Buying Inventory.dll
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Buying Inventory/obj/Debug/net8.0/refint/Buying Inventory.dll
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Buying Inventory/obj/Debug/net8.0/Buying Inventory.pdb
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Buying Inventory/obj/Debug/net8.0/Buying Inventory.genruntimeconfig.cache
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Buying Inventory/obj/Debug/net8.0/ref/Buying Inventory.dll
