@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("The following items are available:\n1 – Rope\n2 – Torches\n3 – Climbing Equipment\n4 – Clean Water\n5 – Machete\n6 – Canoe\n7 – Food Supplies");
-Console.WriteLine("What number do you want to see the price of?");
+Console.WriteLine("What product do you want to see the price of?");
 
 int itemBuy = Convert.ToInt32(Console.ReadLine());
 

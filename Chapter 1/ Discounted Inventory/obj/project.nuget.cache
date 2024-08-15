@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ELDmPc2QrBHbAvvGBiHntR7uL1F96irfL1iIN9NCo7cMxtP+RGpiyKxJ8LS211njGRI5wTPsNmgFgKP8ugtukA==",
+  "success": true,
+  "projectFilePath": "/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/ Discounted Inventory/Discounted Inventory.csproj",
+  "expectedPackageFiles": [
+    "/home/lucas/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
