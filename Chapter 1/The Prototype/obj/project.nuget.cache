@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2l89Y3jjrs9VtMV0dXCKOlAdSNl5AQhl+gFxBAuVzYkKSXeslE/KZR5wFumAnPqoR34cTbte7OftJHl4nmDLLg==",
+  "success": true,
+  "projectFilePath": "/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/The Prototype/The Prototype.csproj",
+  "expectedPackageFiles": [
+    "/home/lucas/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

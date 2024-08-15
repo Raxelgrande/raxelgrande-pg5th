@@ -1,0 +1,15 @@
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/The Prototype/bin/Debug/net8.0/The Prototype
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/The Prototype/bin/Debug/net8.0/The Prototype.deps.json
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/The Prototype/bin/Debug/net8.0/The Prototype.runtimeconfig.json
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/The Prototype/bin/Debug/net8.0/The Prototype.dll
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/The Prototype/bin/Debug/net8.0/The Prototype.pdb
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/The Prototype/obj/Debug/net8.0/The Prototype.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/The Prototype/obj/Debug/net8.0/The Prototype.AssemblyInfoInputs.cache
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/The Prototype/obj/Debug/net8.0/The Prototype.AssemblyInfo.cs
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/The Prototype/obj/Debug/net8.0/The Prototype.csproj.CoreCompileInputs.cache
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/The Prototype/obj/Debug/net8.0/The Prototype.sourcelink.json
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/The Prototype/obj/Debug/net8.0/The Prototype.dll
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/The Prototype/obj/Debug/net8.0/refint/The Prototype.dll
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/The Prototype/obj/Debug/net8.0/The Prototype.pdb
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/The Prototype/obj/Debug/net8.0/The Prototype.genruntimeconfig.cache
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/The Prototype/obj/Debug/net8.0/ref/The Prototype.dll
