@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("The Defense of Consolas")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("The Magic Cannon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28ce72cc024fb44f343f655cd0148226910dd023")]
-[assembly: System.Reflection.AssemblyProductAttribute("The Defense of Consolas")]
-[assembly: System.Reflection.AssemblyTitleAttribute("The Defense of Consolas")]
+[assembly: System.Reflection.AssemblyProductAttribute("The Magic Cannon")]
+[assembly: System.Reflection.AssemblyTitleAttribute("The Magic Cannon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WmFKnjvad6lAVJeBVFBaqdeYFyH7u2U9aNRMTZi+OG9lTbEi4YC24PJ8jJhIEt1qcxoXZC9QwxM7X8Ue1BaWgQ==",
+  "success": true,
+  "projectFilePath": "/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/The Magic Cannon/The Magic Cannon.csproj",
+  "expectedPackageFiles": [
+    "/home/lucas/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
