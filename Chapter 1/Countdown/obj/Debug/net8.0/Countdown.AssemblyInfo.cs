@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Taking a Number")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Countdown")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fdbe5f2fd3b05c9334710a91ded6ea70cb1235c")]
-[assembly: System.Reflection.AssemblyProductAttribute("Taking a Number")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Taking a Number")]
+[assembly: System.Reflection.AssemblyProductAttribute("Countdown")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Countdown")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

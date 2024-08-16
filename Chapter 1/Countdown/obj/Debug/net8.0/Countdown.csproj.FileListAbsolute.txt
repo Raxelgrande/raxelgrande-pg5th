@@ -1,0 +1,15 @@
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Countdown/bin/Debug/net8.0/Countdown
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Countdown/bin/Debug/net8.0/Countdown.deps.json
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Countdown/bin/Debug/net8.0/Countdown.runtimeconfig.json
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Countdown/bin/Debug/net8.0/Countdown.dll
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Countdown/bin/Debug/net8.0/Countdown.pdb
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Countdown/obj/Debug/net8.0/Countdown.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Countdown/obj/Debug/net8.0/Countdown.AssemblyInfoInputs.cache
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Countdown/obj/Debug/net8.0/Countdown.AssemblyInfo.cs
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Countdown/obj/Debug/net8.0/Countdown.csproj.CoreCompileInputs.cache
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Countdown/obj/Debug/net8.0/Countdown.sourcelink.json
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Countdown/obj/Debug/net8.0/Countdown.dll
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Countdown/obj/Debug/net8.0/refint/Countdown.dll
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Countdown/obj/Debug/net8.0/Countdown.pdb
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Countdown/obj/Debug/net8.0/Countdown.genruntimeconfig.cache
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Countdown/obj/Debug/net8.0/ref/Countdown.dll
