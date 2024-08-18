@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("The Dominion of Kings")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c15206a1e99d22fa3a2731297bfdae6d953ae89")]
 [assembly: System.Reflection.AssemblyProductAttribute("The Dominion of Kings")]
 [assembly: System.Reflection.AssemblyTitleAttribute("The Dominion of Kings")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("The Laws of Freach")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9186576f6b76a40ff576bd051df43d0d918906f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c15206a1e99d22fa3a2731297bfdae6d953ae89")]
 [assembly: System.Reflection.AssemblyProductAttribute("The Laws of Freach")]
 [assembly: System.Reflection.AssemblyTitleAttribute("The Laws of Freach")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

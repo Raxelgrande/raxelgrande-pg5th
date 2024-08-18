@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("The Replicator of D’To")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af39608abdd113ee740626098e8f084e4c6fccfb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c15206a1e99d22fa3a2731297bfdae6d953ae89")]
 [assembly: System.Reflection.AssemblyProductAttribute("The Replicator of D’To")]
 [assembly: System.Reflection.AssemblyTitleAttribute("The Replicator of D’To")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

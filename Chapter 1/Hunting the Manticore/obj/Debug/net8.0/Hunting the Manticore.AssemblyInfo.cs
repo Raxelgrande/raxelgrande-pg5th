@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Countdown")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Hunting the Manticore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c15206a1e99d22fa3a2731297bfdae6d953ae89")]
-[assembly: System.Reflection.AssemblyProductAttribute("Countdown")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Countdown")]
+[assembly: System.Reflection.AssemblyProductAttribute("Hunting the Manticore")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Hunting the Manticore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

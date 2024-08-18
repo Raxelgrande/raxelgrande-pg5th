@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("The Four Sisters and the Duckbear")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e68564f43ffe82cc02d82c4918914bbb4591b93")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c15206a1e99d22fa3a2731297bfdae6d953ae89")]
 [assembly: System.Reflection.AssemblyProductAttribute("The Four Sisters and the Duckbear")]
 [assembly: System.Reflection.AssemblyTitleAttribute("The Four Sisters and the Duckbear")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

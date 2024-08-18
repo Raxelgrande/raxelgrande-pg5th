@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ho4wMWbW4KIT/t1ZkuQZdd7EGXO7GQM2qnWdBymiugTXmdm+DBnHzjywKS0hZtudzLW4JLZMfI22OYftXtgCjA==",
+  "success": true,
+  "projectFilePath": "/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 1/Hunting the Manticore/Hunting the Manticore.csproj",
+  "expectedPackageFiles": [
+    "/home/lucas/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
