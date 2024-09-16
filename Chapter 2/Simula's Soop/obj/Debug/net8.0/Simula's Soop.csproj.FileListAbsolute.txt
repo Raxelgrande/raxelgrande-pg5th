@@ -1,0 +1,15 @@
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 2/Simula's Soop/bin/Debug/net8.0/Simula's Soop
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 2/Simula's Soop/bin/Debug/net8.0/Simula's Soop.deps.json
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 2/Simula's Soop/bin/Debug/net8.0/Simula's Soop.runtimeconfig.json
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 2/Simula's Soop/bin/Debug/net8.0/Simula's Soop.dll
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 2/Simula's Soop/bin/Debug/net8.0/Simula's Soop.pdb
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 2/Simula's Soop/obj/Debug/net8.0/Simula's Soop.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 2/Simula's Soop/obj/Debug/net8.0/Simula's Soop.AssemblyInfoInputs.cache
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 2/Simula's Soop/obj/Debug/net8.0/Simula's Soop.AssemblyInfo.cs
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 2/Simula's Soop/obj/Debug/net8.0/Simula's Soop.csproj.CoreCompileInputs.cache
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 2/Simula's Soop/obj/Debug/net8.0/Simula's Soop.sourcelink.json
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 2/Simula's Soop/obj/Debug/net8.0/Simula's Soop.dll
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 2/Simula's Soop/obj/Debug/net8.0/refint/Simula's Soop.dll
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 2/Simula's Soop/obj/Debug/net8.0/Simula's Soop.pdb
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 2/Simula's Soop/obj/Debug/net8.0/Simula's Soop.genruntimeconfig.cache
+/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 2/Simula's Soop/obj/Debug/net8.0/ref/Simula's Soop.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 2/Simula's Test/Simula's Soop/Simula's Soop.csproj": {}
+    "/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 2/Simula's Soop/Simula's Soop.csproj": {}
   },
   "projects": {
-    "/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 2/Simula's Test/Simula's Soop/Simula's Soop.csproj": {
+    "/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 2/Simula's Soop/Simula's Soop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 2/Simula's Test/Simula's Soop/Simula's Soop.csproj",
+        "projectUniqueName": "/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 2/Simula's Soop/Simula's Soop.csproj",
         "projectName": "Simula's Soop",
-        "projectPath": "/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 2/Simula's Test/Simula's Soop/Simula's Soop.csproj",
+        "projectPath": "/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 2/Simula's Soop/Simula's Soop.csproj",
         "packagesPath": "/home/lucas/.nuget/packages/",
-        "outputPath": "/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 2/Simula's Test/Simula's Soop/obj/",
+        "outputPath": "/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 2/Simula's Soop/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/lucas/.nuget/NuGet/NuGet.Config"

@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Simula\'s Soop")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Hunting the Manticore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d26ac92b80aae94065c820e656c256435d2f0d3")]
-[assembly: System.Reflection.AssemblyProductAttribute("Simula\'s Soop")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Simula\'s Soop")]
+[assembly: System.Reflection.AssemblyProductAttribute("Hunting the Manticore")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Hunting the Manticore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
