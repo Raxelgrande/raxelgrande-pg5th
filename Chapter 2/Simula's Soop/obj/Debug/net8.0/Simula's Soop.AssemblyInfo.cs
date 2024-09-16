@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Simula\'s Soop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5d66e9039a92ca0d5a28d6400171c491c075289")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b063bfb7ba1cb02d3f3c37f6280ee4fd9b33763")]
 [assembly: System.Reflection.AssemblyProductAttribute("Simula\'s Soop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Simula\'s Soop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
