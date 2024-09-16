@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sBmHLdolvmb5VtFzpKTJ2oY7Q+OuqvWU+GQHcPdEtCYAHYYjMH3WWF40LvXUL5TzS0wKxP9qDMhYZy+rjE6Awg==",
+  "success": true,
+  "projectFilePath": "/home/lucas/Programas/Codium/Csharp/Luk PG5th/raxelgrande-pg5th/Chapter 2/Simula's Test/Simula's Soop/Simula's Soop.csproj",
+  "expectedPackageFiles": [
+    "/home/lucas/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
